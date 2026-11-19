@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\services\\workoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\services\\workoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\winformsappsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\models\\activity\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\models\\activity\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\data\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\data\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\data\\workoutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\data\\workoutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\models\\activity\\samples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\models\\activity\\samples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\models\\activity\\devicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\models\\activity\\devicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\models\\activity\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\models\\activity\\activitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|c:\\users\\user\\desktop\\repositories\\oop-practice\\winformsappsport\\winformsappsport\\winformsappsport\\migrations\\20261118175833_migrationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90CD4A4-08F4-4173-A4CE-0C2BDDD07A7E}|WinFormsAppSport\\WinFormsAppSport.csproj|solutionrelative:winformsappsport\\migrations\\20261118175833_migrationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Data\\Workout.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Data\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:43:34.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0423\u0420\u0424\u0423\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0423\u0420\u0424\u0423\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T09:06:49.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwFQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T09:32:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\Header.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Models\\Activity\\Header.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\Header.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Models\\Activity\\Header.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T09:59:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkoutService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Services\\WorkoutService.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Services\\WorkoutService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Services\\WorkoutService.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Services\\WorkoutService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T18:02:50.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Program.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T18:07:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkoutContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\WorkoutContext.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Data\\WorkoutContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\WorkoutContext.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Data\\WorkoutContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:40:53.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261118175833_MigrationInit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Migrations\\20261118175833_MigrationInit.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Migrations\\20261118175833_MigrationInit.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Migrations\\20261118175833_MigrationInit.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Migrations\\20261118175833_MigrationInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:58:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Samples.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\Samples.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Models\\Activity\\Samples.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\Samples.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Models\\Activity\\Samples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T10:35:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActivityModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\ActivityModel.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Models\\Activity\\ActivityModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\ActivityModel.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Models\\Activity\\ActivityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T09:57:47.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceLog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\DeviceLog.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Models\\Activity\\DeviceLog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Models\\Activity\\DeviceLog.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Models\\Activity\\DeviceLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T10:05:27.195Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
