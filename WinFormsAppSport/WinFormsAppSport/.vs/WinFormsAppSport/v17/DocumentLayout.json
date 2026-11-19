@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 218,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,18 +71,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Workout.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
-              "RelativeDocumentMoniker": "WinFormsAppSport\\Data\\Workout.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
-              "RelativeToolTip": "WinFormsAppSport\\Data\\Workout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T17:43:34.756Z"
             },
             {
               "$type": "Document",
@@ -139,10 +127,22 @@
               "RelativeDocumentMoniker": "WinFormsAppSport\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Program.cs",
               "RelativeToolTip": "WinFormsAppSport\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T18:07:03.502Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
+              "RelativeDocumentMoniker": "WinFormsAppSport\\Data\\Workout.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\REPOSITORIES\\OOP-practice\\WinFormsAppSport\\WinFormsAppSport\\WinFormsAppSport\\Data\\Workout.cs",
+              "RelativeToolTip": "WinFormsAppSport\\Data\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:43:34.756Z"
             },
             {
               "$type": "Document",
