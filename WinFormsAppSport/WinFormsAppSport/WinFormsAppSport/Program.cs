@@ -32,7 +32,7 @@ namespace WinFormsAppSport
             var form = serviceProvider.GetRequiredService<Form1>();
 
             Application.Run(form);
-            //привет!
+            //Привет!
         }
     }
 }
